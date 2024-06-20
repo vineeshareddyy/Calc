@@ -1,0 +1,26 @@
+{
+  "name": "737130",
+  "version": "1.0.0",
+  "main": "calculatortest.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "keywords": [
+    "calculator"
+  ],
+  "dependencies": {
+    "selenium-webdriver": "^4.21.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vineeshareddyy/Calculator.git"
+  },
+  "bugs": {
+    "url": "https://github.com/vineeshareddyy/Calculator/issues"
+  },
+  "homepage": "https://github.com/vineeshareddyy/Calculator#readme",
+  "description": ""
+}
